@@ -5,8 +5,5 @@
 .DS_Store
 docs
 samples/
-
-
-
 .gitignore
 dist/
